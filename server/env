@@ -1,0 +1,2 @@
+//mongoDB connection
+const CONNECTION_URL = 'mongodb+srv://mingjai0411:mingjai041194@cluster0.cyurtmw.mongodb.net/?retryWrites=true&w=majority'
