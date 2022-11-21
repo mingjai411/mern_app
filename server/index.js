@@ -13,6 +13,7 @@ app.use(cors());
 
 app.use('/posts', postRoutes)
 
+//MongoDB connection url
 const CONNECTION_URL = ''
 const PORT = process.env.PORT || 8000;
 
